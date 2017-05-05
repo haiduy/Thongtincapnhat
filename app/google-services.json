@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "891001171850",
+    "firebase_url": "https://fir-esp8266-8203c.firebaseio.com",
+    "project_id": "fir-esp8266-8203c",
+    "storage_bucket": "fir-esp8266-8203c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891001171850:android:3174d4fe035a23e7",
+        "android_client_info": {
+          "package_name": "com.thongtincapnhap.thongtincapnhat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891001171850-4rbq9o26kesgpd2u836qqibj0m27si4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4WTbZA7Nm8gjfMkIJBFnv54OvUiNg1m8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

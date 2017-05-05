@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main__web_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.thongtincapnhap.thongtincapnhat.webView.Main_WebView">
+
+    <Button
+        android:text="Add to bookmark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/btsendlink" />
+
+    <Button
+        android:text="Go to bookmark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btgoto"
+        android:layout_alignParentRight="true" />
+
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </WebView>
+
+</RelativeLayout>

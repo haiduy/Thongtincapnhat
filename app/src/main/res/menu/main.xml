@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/trangchu"
+            android:title="Trang chủ"/>
+        <item android:id="@+id/item1"
+            android:icon="@drawable/vnpress"
+            android:title="Express.vn"/>
+        <item android:id="@+id/item2"
+            android:icon="@drawable/bao24h"
+            android:title="24h.com.vn"/>
+        <item android:id="@+id/item3"
+            android:icon="@drawable/tuoitre"
+            android:title="Tuoitre.vn"/>
+        <item android:id="@+id/item4"
+        android:icon="@drawable/vietnamnet"
+        android:title="VietNamNet.com"/>
+        <item android:id="@+id/item5"
+            android:icon="@drawable/docsach"
+            android:title="Đọc sách"/>
+        <item android:id="@+id/item7"
+            android:icon="@drawable/doctruyen"
+            android:title="Đọc truyện"/>
+        <item android:id="@+id/item8"
+            android:icon="@drawable/google"
+            android:title="Google.com.vn"/>
+        <item android:id="@+id/item9"
+            android:icon="@drawable/iconzing"
+            android:title="MP3.zing.vn"/>
+        <item android:id="@+id/item10"
+            android:icon="@drawable/youtube"
+            android:title="Youtube.com"/>
+
+
+</menu>
